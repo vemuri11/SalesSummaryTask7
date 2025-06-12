@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Task 7: Get Basic Sales Summary from SQLite using Python
 
 This project is part of a Data Analyst Internship task. The goal is to extract and visualize sales data stored in a SQLite database using Python.
@@ -21,3 +22,6 @@ This project is part of a Data Analyst Internship task. The goal is to extract a
 1. **Install Requirements:**
    ```bash
    pip install pandas matplotlib
+=======
+# SalesSummaryTask7
+>>>>>>> 38c89634d154593c784304d454ef09ea721c0fff
